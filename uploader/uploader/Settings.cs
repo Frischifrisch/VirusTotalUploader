@@ -10,7 +10,7 @@ namespace uploader
 {
     public class Settings
     {
-        public string ApiKey = "";
+        public string ApiKey = "46df5542f903cd996a7654003a56174c02fa1c11c0cb7dc1006532d81a4371d1";
         public string Language = "";
         public bool DirectUpload = false;
 
